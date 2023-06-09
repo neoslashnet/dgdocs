@@ -39,7 +39,7 @@
       imageUrl: "img/code.jpg",
       description: (
         <>
-          When I find useful technical resouces, I'll add here.
+          When I find useful technical resouces, I'll add them here.
         </>
       )
     }
