@@ -15,11 +15,12 @@
 
   const features = [
     {
-      title: <>Technical Notes/>,
+      title: <>Technical Notes</>,
       imageUrl: "img/notes.jpg",
       description: (
         <>
-          I take a lot of notes throughout the day. I'll add technical notes to this site to go back and use as a reference. 
+          I take a lot of notes throughout the day. I'll add technical notes to 
+          this site to go back and use as a reference.
         </>
       )
     },
@@ -28,7 +29,8 @@
       imageUrl: "img/web.jpg",
       description: (
         <>
-          I have too many bookmarks in my browser. I'll use this site to organize them based on projects and other work I'm doing.
+          I have too many bookmarks in my browser. I'll use this site to organize them based 
+          on projects and other work I'm doing.
         </>
       )
     },
