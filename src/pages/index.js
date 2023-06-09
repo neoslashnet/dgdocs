@@ -16,7 +16,7 @@
   const features = [
     {
       title: <>Easy to Use</>,
-      imageUrl: "img/undraw_docusaurus_mountain.svg",
+      imageUrl: "img/notes.jpg",
       description: (
         <>
           Docusaurus was designed from the ground up to be easily installed and
@@ -26,7 +26,7 @@
     },
     {
       title: <>Focus on What Matters</>,
-      imageUrl: "img/undraw_docusaurus_tree.svg",
+      imageUrl: "img/web.jpg",
       description: (
         <>
           Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -36,7 +36,7 @@
     },
     {
       title: <>Powered by React</>,
-      imageUrl: "img/undraw_docusaurus_react.svg",
+      imageUrl: "img/code.jpg",
       description: (
         <>
           Extend or customize your website layout by reusing React. Docusaurus can

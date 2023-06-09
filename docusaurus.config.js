@@ -12,10 +12,10 @@ module.exports = {
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "David Galiata", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  projectName: "DGDocs", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "David Galiata's Cloud Security Wiki",
+      title: "David Galiata's Tech Docs",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg"
