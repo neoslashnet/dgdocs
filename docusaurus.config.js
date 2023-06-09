@@ -22,7 +22,7 @@ module.exports = {
       },
       links: [
         { to: "docs/doc1", label: "Docs", position: "left" },
-        { to: "blog", label: "Blog", position: "left" },
+        { to: "About", label: "About", position: "left" },
         {
           href: "https://galiata.com",
           label: "My personal site",
