@@ -15,32 +15,29 @@
 
   const features = [
     {
-      title: <>Easy to Use</>,
+      title: <>Technical Notes/>,
       imageUrl: "img/notes.jpg",
       description: (
         <>
-          Docusaurus was designed from the ground up to be easily installed and
-          used to get your website up and running quickly.
+          I take a lot of notes throughout the day. I'll add technical notes to this site to go back and use as a reference. 
         </>
       )
     },
     {
-      title: <>Focus on What Matters</>,
+      title: <>Website Bookmarks</>,
       imageUrl: "img/web.jpg",
       description: (
         <>
-          Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-          ahead and move your docs into the <code>docs</code> directory.
+          I have too many bookmarks in my browser. I'll use this site to organize them based on projects and other work I'm doing.
         </>
       )
     },
     {
-      title: <>Powered by React</>,
+      title: <>Other Technical Resources</>,
       imageUrl: "img/code.jpg",
       description: (
         <>
-          Extend or customize your website layout by reusing React. Docusaurus can
-          be extended while reusing the same header and footer.
+          When I find useful technical resouces, I'll add here.
         </>
       )
     }
