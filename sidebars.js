@@ -7,7 +7,7 @@
 
 module.exports = {
   docs: {
-    Docusaurus: ["doc1", "doc2", "doc3"],
+    Docusaurus: ["doc1", "doc2", "doc3","ars51"],
     Features: ["mdx"]
   }
 };
